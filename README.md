@@ -68,7 +68,7 @@ L'exécutable sera dans `release/BalMasque/`
 ### Interface
 ## 📸 Captures d'écran
 
-![Interface d'accueil](screenshots/accueil.png)
+![Interface d'accueil](screenshots/Accueil.png)
 ![Interface de retouche](screenshots/retouches.png)
 
 ### Étapes
