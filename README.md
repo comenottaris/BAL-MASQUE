@@ -221,7 +221,7 @@ Voir **LICENSE** pour plus de détails.
 
 ### Développement
 
-- Inspiration : BlurryFaces par @asmaamirkhan
+- Inspiration : BlurryFaces par @asmaamirkhan : github.com/asmaamirkhan/BlurryFaces
 
 ### Typographie du logo
 
